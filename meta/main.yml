@@ -1,0 +1,14 @@
+galaxy_info:
+  author: Eric Lafargue
+  description: Ansible role to configure defaults on macOS
+  license: MIT
+  min_ansible_version: 2.4
+  platforms:
+    - name: Darwin
+      versions:
+        - all
+  galaxy_tags:
+    - macos
+    - osx
+    - system
+dependencies: []
